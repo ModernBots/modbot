@@ -5,9 +5,9 @@
    viewBox="0 0 144 113"
    version="1.1"
    id="svg159"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="modernbots.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   inkscape:export-filename="/home/kainoa/Downloads/contentbot.png"
+   inkscape:export-filename="/home/kainoa/Downloads/modernbots.png"
    inkscape:export-xdpi="558.14001"
    inkscape:export-ydpi="558.14001"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:snap-global="true"
-     inkscape:zoom="8.9984032"
-     inkscape:cx="92.183022"
-     inkscape:cy="29.282973"
+     inkscape:zoom="3.181416"
+     inkscape:cx="31.275382"
+     inkscape:cy="89.42559"
      inkscape:window-width="1584"
      inkscape:window-height="928"
      inkscape:window-x="8"
@@ -39,11 +39,11 @@
        inkscape:collect="always"
        id="linearGradient22682">
       <svg:stop
-         style="stop-color:#eb459e;stop-opacity:1"
+         style="stop-color:#fee75c;stop-opacity:1"
          offset="0"
          id="stop22678" />
       <svg:stop
-         style="stop-color:#5865f2;stop-opacity:1"
+         style="stop-color:#57f287;stop-opacity:1"
          offset="1"
          id="stop22680" />
     </svg:linearGradient>
@@ -63,11 +63,11 @@
        inkscape:collect="always"
        id="linearGradient2542">
       <svg:stop
-         style="stop-color:#ed4245;stop-opacity:1"
+         style="stop-color:#5865f2;stop-opacity:1"
          offset="0"
          id="stop2538" />
       <svg:stop
-         style="stop-color:#fee75c;stop-opacity:1"
+         style="stop-color:#eb459e;stop-opacity:1"
          offset="1"
          id="stop2540" />
     </svg:linearGradient>
@@ -83,8 +83,8 @@
        id="linearGradient2536"
        x1="0"
        y1="88.973999"
-       x2="92.020508"
-       y2="9.9749517"
+       x2="89.268204"
+       y2="14.780808"
        gradientUnits="userSpaceOnUse" />
     <svg:linearGradient
        inkscape:collect="always"
@@ -92,8 +92,8 @@
        id="linearGradient3049"
        x1="0"
        y1="27"
-       x2="143.23891"
-       y2="-84.88604"
+       x2="144.02925"
+       y2="-85.133812"
        gradientUnits="userSpaceOnUse" />
     <svg:mask
        id="roboillo-b"
@@ -128,14 +128,14 @@
      fill="#DCDDDE"
      d="m 132.0001,46.3332 h -120 c -2.209,0 -4,5.82 -4,13 0,7.18 1.791,13 4,13 h 120 c 2.209,0 4,-5.82 4,-13 0,-7.18 -1.791,-13 -4,-13"
      id="path131"
-     style="fill:#57f287;fill-opacity:1;fill-rule:evenodd" />
+     style="fill:#ed4245;fill-opacity:1;fill-rule:evenodd" />
   <svg:path
      fill="#B9BBBE"
      d="m 108.0001,88.9742 h -108 v -34 c 0,-29.823 24.177,-54 54,-54 29.823,0 54,24.177 54,54 z"
      mask="url(#roboillo-b)"
      id="path136"
      style="fill:url(#linearGradient2536);fill-opacity:1;fill-rule:evenodd"
-     transform="matrix(1,0,0,0.98914782,18,-0.9644278)"
+     transform="matrix(1.0000009,0,0,0.98914782,18,-0.9644278)"
      sodipodi:nodetypes="ccsssc" />
   <svg:path
      fill="#202225"
